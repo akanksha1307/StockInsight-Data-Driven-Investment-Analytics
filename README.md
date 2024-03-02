@@ -9,7 +9,9 @@ StockInsight: "Data-Driven Investment Analytics" is a project where Python and w
      - The python library used is Yfianace.
      - Yfinance library: The yfinance is one of the famous modules in Python, which is used to collect online data, and with it, we can collect the financial data of Yahoo.
    - ***Extracting Stock Data Using Web Scraping***
-     - The python library used for web scraping is BeautifulSoup.
+     - The python library
+ used for web scraping is BeautifulSoup.
      - BeautifulSoup library: Beautiful Soup is a Python library for pulling data out of HTML and XML files with simplicity and convenience.
 
 - **Building Dashboard**
+![newplot](https://github.com/akanksha1307/StockInsight-Data-Driven-Investment-Analytics/assets/89465549/eaa166d3-f237-4083-8602-5bd71e4ad9ad)
